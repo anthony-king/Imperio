@@ -117,7 +117,7 @@ class Chat extends Component {
                   <div className="card-title"> 
                       {this.state.username ? `Chatting as: ${this.state.username}` : ''}
                   </div>
-                  {this.state.userZip.length === 5 ? 
+                  {(this.state.userZip) && (this.state.userZip.length === 5)  ? 
                     <ChatZipForm 
                       setZip={this.setZip}
                       submitZip={this.submitZip}
