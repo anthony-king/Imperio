@@ -32,6 +32,7 @@ bower_components/
 ## API KEYS ##
 config/civic.js
 config/map.js
+.env
 
 
 #bundle
