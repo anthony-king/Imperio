@@ -1,4 +1,4 @@
-# HRR32-Rubeus
+# Represent!
 
 > Pithy project description
 
@@ -6,7 +6,7 @@
 
   - __Product Owner__: Derrek Tran
   - __Scrum Master__: Christopher Amurao
-  - __Development Team Members__: Mubeen Ali, Uday Trivedi
+  - __Development Team Members__: Mubeen Ali, Uday Trivedi, Kalei Trujillo, Anthony King, Ashleigh Kessler, David Park, Andy Reisenbach
 
 ## Table of Contents
 
