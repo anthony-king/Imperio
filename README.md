@@ -18,10 +18,6 @@
 1. [Team](#team)
 1. [Contributing](#contributing)
 
-## Usage
-
-> After Installing Dependencies, run npm start. For local deployments, the default port is 3000.
-
 ## Requirements
 
 - Node 8.11.1
