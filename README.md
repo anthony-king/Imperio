@@ -1,6 +1,6 @@
 # Represent!
 
-> Pithy project description
+> Civic Engaement application with an interactive map for finding state and local representatives, Town Hall hosting, and chatroom.
 
 ## Team
 
